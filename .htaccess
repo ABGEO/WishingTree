@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule  ^add([A-Za-z0-9-]+)?$    add.php [L]
