@@ -1,6 +1,6 @@
 <?php
-	$dbhost = "localhost";
-	$dbuser = "root";
-	$dbpasswd = "qwerty";
-	$dbname = "tree";
+	$dbhost = "host";
+	$dbuser = "user";
+	$dbpasswd = "password";
+	$dbname = "dbname";
 ?>
