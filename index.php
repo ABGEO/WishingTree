@@ -21,7 +21,7 @@
 	<body>
 		<div class="main">
 			<div class="header">
-				<?include "includes/header.tpl"?>
+				<? include "includes/header.tpl" ?>
 			</div>
 		  
 			<div class="content">
